@@ -1,3 +1,3 @@
 # BookStoreLandingPage
 
-[https://bookstore-homepage.vercel.app/](Landing)
+[Landing](https://bookstore-homepage.vercel.app/)
